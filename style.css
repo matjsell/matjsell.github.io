@@ -1,0 +1,51 @@
+body{
+	background-color: pink;
+	color: black;
+	font-size: 24px;
+	margin: 1.5 auto;
+	padding: 6px;
+	}
+	
+ul{
+	text-align: left;
+	margin: 30px auto;
+	padding: 0 20px;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 70px;
+	font-family: Oswald;
+	font-weight: 300;
+	
+}
+
+h2{
+	color: darkslate;
+	font-family: Oswald;
+	font-size: 45px;
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+h3{
+	color: grey;
+	font-family: Oswald;
+	font-size: 35px;
+	text-align: left;
+}
+
+p{
+	color: white;
+	font-family: Oswald;
+}
+
+#contactme{
+	color: black;
+	
+}
+
+.highschoolaccomplishments {
+	color: coral;
+}
