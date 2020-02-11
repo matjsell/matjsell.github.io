@@ -1,51 +1,59 @@
 body{
-	background-color: pink;
+	background-color: white;
 	color: black;
 	font-size: 24px;
 	margin: 1.5 auto;
 	padding: 6px;
-	}
-	
-ul{
-	text-align: left;
-	margin: 30px auto;
-	padding: 0 20px;
 }
 
 h1{
+	background-color: lightblue;
+	padding: 1.5 auto;
 	text-align: center;
-	color: white;
-	font-size: 70px;
-	font-family: Oswald;
-	font-weight: 300;
-	
+	font-size: 60px;
+	font-family: 'Shadows Into Light Two', cursive;
 }
 
-h2{
-	color: darkslate;
-	font-family: Oswald;
-	font-size: 45px;
-	border-bottom: 1px solid black;
+ol {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 	text-align: center;
 }
 
-h3{
-	color: grey;
-	font-family: Oswald;
-	font-size: 35px;
-	text-align: left;
+header{
+	border-bottom: 4px dotted black;
+}
+
+#marketing {
+	text-align: center;
 }
 
 p{
-	color: white;
-	font-family: Oswald;
+	line-height: 30px;
+	font-size: 20px;
 }
 
-#contactme{
+a{
+	background-color: lightblue;
 	color: black;
-	
+	padding:2;
+	text-decoration: none;
 }
 
-.highschoolaccomplishments {
-	color: coral;
+#jobtitle {
+	color: lightblue;
 }
+
+#date {
+	color: slate;
+}
+
+h2{
+	font-size: 40px;
+}
+
+h3{
+	font-size: 30;
+}
+	
